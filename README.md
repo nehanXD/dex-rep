@@ -47,8 +47,6 @@ my-portfolio
 
 ## Author
 
-[Your Name]  
-[Your Contact Information]  
-[Your LinkedIn Profile or Website]  
+Nehan Bahar
 
 Feel free to reach out for any inquiries or collaborations!
